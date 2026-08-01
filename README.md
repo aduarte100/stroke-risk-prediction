@@ -114,6 +114,7 @@ Executive Report
 # Project Highlights
 
 ## Stroke Diagnosis Distribution
+![Stroke Distribution](images/stroke_distribution.png)
 
 ---
 
