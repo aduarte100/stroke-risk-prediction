@@ -126,7 +126,7 @@ Executive Report
 
 ## Feature Importance
 
-![Feature Importance](images/Feature_Importance.png)
+![Feature Importance](images/feature_importance.png)
 
 ---
 
