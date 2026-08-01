@@ -101,13 +101,13 @@ Executive Report
 
 # Key Results
 
-✅ Completed an end-to-end healthcare analytics workflow.
+Completed an end-to-end healthcare analytics workflow.
 
-✅ Compared Logistic Regression, Random Forest, and Support Vector Machine models.
+Compared Logistic Regression, Random Forest, and Support Vector Machine models.
 
-✅ Created a professional executive report summarizing analytical findings.
+Created a professional executive report summarizing analytical findings.
 
-✅ Demonstrated responsible interpretation of machine learning results and project limitations.
+Demonstrated responsible interpretation of machine learning results and project limitations.
 
 ---
 
@@ -166,10 +166,8 @@ Healthcare-Stroke-Risk-Prediction/
 ├── notebooks/
 │   └── Stroke_Risk_Prediction.ipynb
 │
-├── reports/
-│   └── Stroke_Risk_Prediction_Executive_Report.pdf
-│
-└── tableau/
+└── reports/
+   └── Stroke_Risk_Prediction_Executive_Report.pdf
 ```
 
 ---
