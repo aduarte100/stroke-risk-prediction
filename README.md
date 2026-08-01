@@ -4,7 +4,7 @@
 
 ### Machine Learning & Healthcare Analytics Portfolio Project
 
-<img src="images/banner.png" alt="Healthcare Stroke Risk Prediction Banner" width="100%">
+<img src="/Users/angelineduarte/Documents/GitHub Projects/Data Analytics/stroke_risk_predictions/images/banner.png" alt="Healthcare Stroke Risk Prediction Banner" width="100%">
 
 <br>
 
