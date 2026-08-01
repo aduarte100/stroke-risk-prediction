@@ -115,19 +115,19 @@ Executive Report
 
 ## Stroke Diagnosis Distribution
 
-![Stroke Distribution](images/target_distribution.png)
+![Stroke Distribution](images/Stroke Distribution.png)
 
 ---
 
 ## Correlation Analysis
 
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](images/Correlation_Matrix.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/Feature_Importance.png)
 
 ---
 
