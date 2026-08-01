@@ -115,13 +115,11 @@ Executive Report
 
 ## Stroke Diagnosis Distribution
 
-![Stroke Distribution](images/Stroke Distribution.png)
-
 ---
 
 ## Correlation Analysis
 
-![Correlation Matrix](images/Correlation_Matrix.png)
+![Correlation Matrix](images/correlation_matrix.png)
 
 ---
 
