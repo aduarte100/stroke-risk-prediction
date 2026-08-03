@@ -78,22 +78,16 @@ This project explores whether demographic, clinical, and lifestyle variables can
 ```text
 Healthcare Dataset
         │
-        ▼
 Data Cleaning
         │
-        ▼
 Exploratory Data Analysis
         │
-        ▼
 Feature Engineering
         │
-        ▼
 Machine Learning Models
         │
-        ▼
 Model Evaluation
         │
-        ▼
 Executive Report
 ```
 
@@ -153,21 +147,24 @@ The report includes:
 ```text
 Healthcare-Stroke-Risk-Prediction/
 
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-│
-├── data/
-│   └── stroke_prediction_dataset_deidentified.xlsx
-│
-├── images/
-│
-├── notebooks/
-│   └── Stroke_Risk_Prediction.ipynb
-│
-└── reports/
-   └── Stroke_Risk_Prediction_Executive_Report.pdf
+
+README.md
+LICENSE
+requirements.txt
+data/
+        stroke_prediction_dataset_deidentified.xlsx
+images/
+        banner.png
+        correlation_matrix.png
+        feature_importance.png
+        stroke_distribution.png
+notebooks/
+        Stroke_Risk_Prediction.ipynb
+reports/
+        Stroke_Risk_Prediction_Executive_Report.pdf
+LICENSE
+README.md
+requirements.txt
 ```
 
 ---
