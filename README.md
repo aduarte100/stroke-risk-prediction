@@ -4,7 +4,7 @@
 
 ### Machine Learning & Healthcare Analytics Portfolio Project
 
-<img src="images/banner.png" alt="Healthcare Stroke Risk Prediction Banner" width="100%">
+<img src="images/stroke_risk_prediction_banner.png" alt="Healthcare Stroke Risk Prediction Banner" width="100%">
 
 <br>
 
